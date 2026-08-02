@@ -1,0 +1,6 @@
+{
+  "name": "Company Events Module",
+  "description": "An interactive website module showcasing upcoming company event articles, agendas, speaker profiles, and RSVP tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
